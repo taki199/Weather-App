@@ -1,0 +1,22 @@
+body{
+    background: #eeedec;
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+}
+.container{
+    max-width: 400px;
+}
+.icon{
+    position: relative;
+    top:-50px;
+    border-radius: 90px;
+    -webkit-border-radius: 90px;
+    -moz-border-radius: 90px;
+    -ms-border-radius: 90px;
+    -o-border-radius: 90px;
+    margin-bottom: -50px;
+}
+.details{
+    color: #fff;
+    background-color: blanchedalmond;
+}
